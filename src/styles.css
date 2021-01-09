@@ -5,12 +5,16 @@
 
 h1{
   font-size: 900%;
-  color:rgb(52, 158, 135)
+  color:rgb(255, 255, 255)
 }
 
 button{
   font-size: 500%;
   margin-left: 5%;
   color: rgb(50, 160, 204);
-  background-color: rgb(170, 218, 240)
+  background-color: rgb(166, 226, 166)
+}
+
+body {
+  background: rgb(0, 172, 86)
 }
